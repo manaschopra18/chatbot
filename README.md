@@ -1,4 +1,4 @@
-# chatbot
+# Chatbot
 ### Tools Used - Twilio, Dialogflow, Flask, MongoDB, Python, Heroku  
 ### Bot Whatsapp number : +14155238886
 ### Sandbox Code : join present-recent
@@ -16,3 +16,6 @@
 ##### -use commands like who are you, what is your age etc.
 #### 6. Chat history is saved and news preferences of users are also stored, using MongoDB
 
+![alt text](https://github.com/manaschopra18/chatbot/blob/master/Bot1.jpeg?raw=true)
+![alt text](https://github.com/manaschopra18/chatbot/blob/master/Bot2.jpeg?raw=true)
+![alt text](https://github.com/manaschopra18/chatbot/blob/master/Bot3.jpeg?raw=true)
